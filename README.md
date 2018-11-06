@@ -2,7 +2,7 @@
 paste Network.java or Network.Kotlin in your code according to your code and call it in following way
 
 
-public class Activity extends AppCompatActivity implements Network.OnAsyncRequestComplete{
+    public class Activity extends AppCompatActivity implements Network.OnAsyncRequestComplete{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
